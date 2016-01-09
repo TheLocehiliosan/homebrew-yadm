@@ -1,7 +1,7 @@
 class Yadm < Formula
   desc "Yet Another Dotfiles Manager"
   homepage "https://github.com/TheLocehiliosan/yadm"
-  url "https://github.com/TheLocehiliosan/yadm", :using => :git, :tag => '1.02'
+  url "https://github.com/TheLocehiliosan/yadm", :using => :git, :tag => '1.03'
 
   def install
     bin.install "yadm"
